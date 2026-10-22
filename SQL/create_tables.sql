@@ -1,0 +1,21 @@
+CREATE TABLE IF NOT EXISTS orders (
+    Order_ID VARCHAR(20) PRIMARY KEY,
+    Order_Date DATE NOT NULL,
+    Customer_ID VARCHAR(20) NOT NULL,
+    Customer_Segment VARCHAR(50),
+    City VARCHAR(100),
+    State VARCHAR(100),
+    Sales_Channel VARCHAR(50),
+    Payment_Method VARCHAR(50),
+    Product_ID VARCHAR(20),
+    Product_Name VARCHAR(150),
+    Category VARCHAR(100),
+    Quantity INT,
+    Unit_Price_INR DECIMAL(12,2),
+    Discount_Pct DECIMAL(5,2),
+    Revenue_INR DECIMAL(14,2),
+    Unit_Cost_INR DECIMAL(12,2),
+    Total_Cost_INR DECIMAL(14,2),
+    Shipping_Cost_INR DECIMAL(12,2),
+    Profit_INR DECIMAL(14,2)
+);
