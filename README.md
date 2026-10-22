@@ -35,6 +35,24 @@ The dataset is used to analyze order information, revenue, costs, profit, produc
 
 ## Analysis Performed
 
+## 📈 Key Findings
+
+* **Total Revenue:** ₹5.38M (₹53.8 lakh)
+* **Total Profit:** ₹1.83M (₹18.3 lakh)
+* **Total Orders:** 1,500
+* **Profit Margin:** 33.9%
+* **Top State by Revenue:** Madhya Pradesh
+* **Top Product:** Office Chair
+
+### Business Insights
+
+* The dataset contains 1,500 orders with total revenue of ₹53.8 lakh.
+* Total profit is ₹18.3 lakh, with a reported profit margin of 33.9%.
+* Madhya Pradesh is the leading state by revenue in this analysis.
+* Office Chair is the top-performing product based on the analysis.
+
+These findings can help identify strong-performing regions and products and support data-driven business decisions.
+
 ### SQL
 
 * Business KPI calculations
