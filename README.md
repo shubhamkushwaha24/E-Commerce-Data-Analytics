@@ -120,9 +120,12 @@ Aspiring Data Analyst
 Dashboard Preview
 
 Power BI Dashboard
+
 <img width="981" height="547" alt="PowerBI_dashboard" src="https://github.com/user-attachments/assets/c1ef41a5-cb78-4b50-99eb-cc452dd9e1e7" />
 
+
 Excel Dashboard
+
 <img width="713" height="448" alt="Excel_dashboard" src="https://github.com/user-attachments/assets/855d1808-ae86-4063-8717-30d9b7a3db28" />
 
 
