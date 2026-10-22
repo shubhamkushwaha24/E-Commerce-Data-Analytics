@@ -111,8 +111,6 @@ This project demonstrates the use of SQL, Python, Excel, and Power BI to analyze
 
 ## Author
 
-## Author
-
 Shubham Ku. kushwaha
 Aspiring Data Analyst
 
