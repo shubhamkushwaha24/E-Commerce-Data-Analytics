@@ -126,7 +126,8 @@ Power BI Dashboard
 
 Excel Dashboard
 
-<img width="713" height="448" alt="Excel_dashboard" src="https://github.com/user-attachments/assets/855d1808-ae86-4063-8717-30d9b7a3db28" />
+<img width="966" height="557" alt="Excel_dashboard" src="https://github.com/user-attachments/assets/6832c268-c6d1-482f-b8f3-020b16c13f59" />
+
 
 
 
